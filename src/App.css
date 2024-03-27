@@ -1,0 +1,19 @@
+body{
+  overflow-x: hidden;
+  background-color: rgb(123, 121, 121);
+}
+.main{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sub{
+  margin-top: 50px;
+  background-color: antiquewhite;
+  height: 650px;
+  width: 500px;
+}
+.result{
+  background-color: rgb(134, 134, 209);
+  height: 150px;
+}
