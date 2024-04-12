@@ -68,7 +68,7 @@ function App() {
 
           <div className='result rounded shadow d-flex justify-content-center flex-column align-items-center w-100'>
             <h2>{bmi} kg/m²</h2>
-            <p>overweight</p>
+        
           </div>
 
           <form action="">
